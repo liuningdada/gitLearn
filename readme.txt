@@ -9,3 +9,5 @@ try normal merge
 
 do half work
 work done
+
+done work2
