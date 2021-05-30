@@ -1,4 +1,4 @@
 git is a distribute version control system.
 git is a software under the GPL.
 git has a mutable index call stage
-git track change
+git track change of file
